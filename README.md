@@ -57,8 +57,3 @@ It showcases my profile, skills, and achievements in a structured and user-frien
 
 ---
 
-## ▶️ How to Run
-
-1. Clone the repository  
-```bash
-git clone https://github.com/shravya454/Portfolio.git
