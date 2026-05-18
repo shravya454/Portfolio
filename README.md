@@ -57,4 +57,4 @@ It showcases my profile, skills, and achievements in a structured and user-frien
 
 ---
 
-#### The appliction was build for Collaage Assignment
+### The appliction was build for Collage Assignment
