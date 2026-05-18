@@ -57,3 +57,4 @@ It showcases my profile, skills, and achievements in a structured and user-frien
 
 ---
 
+### The appliction was build for College Assignment
